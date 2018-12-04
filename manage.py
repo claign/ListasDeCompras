@@ -1,9 +1,4 @@
-#Hola me llamo Felipe Vera
-#Hola mundo
-#Cambio Prueba
-#Prueba final a trabajar
-#Prueba final remota
-#Para probar
+#pruebax
 import os
 import sys
 
